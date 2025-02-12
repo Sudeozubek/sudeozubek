@@ -1,11 +1,9 @@
 ## 👩🏻‍💻 Software Developer | AI Enthusiast
 
-🚀 Passionate about **Backend, AI and Full Stack Development**
-
-💡 Love building **AI Integrated Applications**
+I'm passionate about Backend, AI, and Full-Stack Development, and I enjoy creating AI-integrated applications.
 
 
-🔹Experienced in **FastAPI, Python, SQLAlchemy, and Database Management**  
+🔹 Experienced in **FastAPI, Python, SQLAlchemy, and Database Management**  
 
 🔹 Learning & exploring **AI integration, scalable architectures, and full-stack development**  
 
