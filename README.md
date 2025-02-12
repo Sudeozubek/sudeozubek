@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sude Özübek</h1>
 <h3 align="center">Aspiring Full-Stack Developer </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudeozubek&label=Profile%20Views&color=blue&style=plastic" alt="profile-views" /> 
-</p>
 
 - 🚀 I'm currently working on **AI-powered applications & Web Development**
 - 🌱 I’m currently learning **Python Backend Development**
 - 💬 Ask me about **FastAPI, AI, and Full-Stack Development**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sudeozubek/)
 
 ---
 
