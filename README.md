@@ -3,7 +3,7 @@
 
 
 - 🚀 I'm currently working on **AI-powered applications & Web Development**
-- 🌱 I’m currently learning **Python Backend Development**
+- 🌱 I’m currently learning **backend development with Python**
 - 💬 Ask me about **FastAPI, AI Integration, and Full-Stack Development**
 
 
