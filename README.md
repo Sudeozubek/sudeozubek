@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Python Backend Development**
 - 💬 Ask me about **FastAPI, AI Integration, and Full-Stack Development**
   
-## 📫 How to reach me:
+- 📫 How to reach me:
   <a href="https://www.linkedin.com/in/sudeozubek/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
