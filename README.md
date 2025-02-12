@@ -2,10 +2,10 @@
 <h3 align="center">Aspiring Full-Stack Developer </h3>
 
 
-🚀 I'm currently working on **AI-powered applications & Web Development**
-🌱 I’m currently learning **Python Backend Development**
-💬 Ask me about **FastAPI, AI, and Full-Stack Development**
-📫 How to reach me: <a href="https://www.linkedin.com/in/sudeozubek/" target="_blank">
+- 🚀 I'm currently working on **AI-powered applications & Web Development**
+- 🌱 I’m currently learning **Python Backend Development**
+- 💬 Ask me about **FastAPI, AI, and Full-Stack Development**
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sudeozubek/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
