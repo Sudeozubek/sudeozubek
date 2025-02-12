@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sude Özübek</h1>
-<h3 align="center">Aspiring Full-Stack Developer </h3>
+<h1 align="center">I'm Sude Özübek</h1>
+<h3 align="center">🌟 Aspiring Full-Stack Developer 👩🏻‍💻</h3>
 
 
 - 🚀 I'm currently working on **AI-powered applications & Web Development**
