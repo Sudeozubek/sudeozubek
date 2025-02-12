@@ -2,9 +2,11 @@
 <h3 align="center">Aspiring Full-Stack Developer 👩🏻‍💻</h3>
 
 
-- 🚀 I'm currently working on **AI-powered applications & Web Development**
-- 🌱 I’m currently learning **backend development with Python and FastAPI**
-- 💬 Ask me about **FastAPI, AI Integration, and Full-Stack Development**
+<p align="center">
+  🚀 I'm currently working on <strong>AI-powered applications & Web Development</strong><br>
+  🌱 I’m currently learning <strong>backend development with Python and FastAPI</strong><br>
+  💬 Ask me about <strong>FastAPI, AI Integration, and Full-Stack Development</strong>
+</p>
 
 
 ## 🚀 Languages & Tools:
