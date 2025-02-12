@@ -25,11 +25,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudeozubek&show_icons=true&theme=radical" alt="github stats" />
-</p>
-
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeozubek&layout=compact&theme=radical" alt="top languages" />
 </p>
 
