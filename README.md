@@ -4,7 +4,7 @@
 
 <p align="center">
   🚀 I'm currently working on <strong>AI-powered applications & Web Development</strong><br>
-  🌱 I’m currently learning <strong>backend development with Python and FastAPI</strong><br>
+  🌱 I’m currently learning <strong>backend development with Python, FastAPI, SQL and SQLite</strong><br>
   💬 Ask me about <strong>FastAPI, AI Integration, and Full-Stack Development</strong>
 </p>
 
