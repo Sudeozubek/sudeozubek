@@ -7,7 +7,7 @@
   🌱 I’m currently learning <strong>backend development with Python, Java, FastAPI, SQL and MySQL</strong><br>
   💬 Ask me about <strong>FastAPI, AI Integration, and Full-Stack Development</strong>
 </p>
-
+ 
 
 ## 🚀 Languages & Tools:
 <p align="center">
