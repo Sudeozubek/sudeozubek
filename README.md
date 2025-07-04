@@ -1,15 +1,15 @@
 <h1 align="center">I'm Sude Özübek 🌟</h1>
-<h3 align="center">Full Stack Web Developer👩🏻‍💻</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 
 <p align="center">
-  🚀 I'm currently working on <strong>AI-powered applications & Web Development</strong><br>
-  🌱 I’m currently learning <strong>backend development with Python, Java, FastAPI, SQL and MySQL</strong><br>
-  💬 Ask me about <strong>FastAPI, AI Integration, and Full-Stack Development</strong>
+  I'm currently working on <strong>AI-powered applications & Web Development</strong><br>
+  I’m currently learning <strong>backend development with Python, Java, FastAPI, SQL and MySQL</strong><br>
+  Ask me about <strong>FastAPI, AI Integration, and Full-Stack Development</strong>
 </p>
  
 
-## 🚀 Languages & Tools:
+## Languages & Tools:
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
   <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="50"/></a>
