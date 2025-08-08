@@ -23,11 +23,6 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
 </p> 
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeozubek&layout=compact&theme=dark" alt="top languages" />
-</p>
-
 
 
 
