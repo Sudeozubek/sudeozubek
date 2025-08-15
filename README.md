@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeozubek&layout=compact" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeozubek&layout=compact&hide=jupyter%20notebook&theme=transparent" />
 </p>
 
 
