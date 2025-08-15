@@ -5,6 +5,7 @@
  <b>Focused on Python, JavaScript, and AI Agents</b>
 </p>
 
+---
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/></a>
