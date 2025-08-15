@@ -1,10 +1,8 @@
 <h1 align="center">Hey I'm Sude🌟</h1>
-<h3 align="center">AI-Powered Full Stack Developer</h3>
-
 
 <p align="center">
-  **Building AI-Powered & Full-Stack Web Applications**
-  **Focused on Python, JavaScript, and AI Agent Development**
+ <b>Building AI-Powered Full-Stack Applications</b> <br>
+ <b>Focused on Python, JavaScript, and AI Agents</b>
 </p>
  
 
