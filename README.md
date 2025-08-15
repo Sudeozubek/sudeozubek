@@ -23,10 +23,8 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeozubek
-&layout=compact
-&hide=jupyter%20notebook,html,mako
-&theme=transparent" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeozubek&layout=compact&hide=jupyter%20notebook,html,mako&theme=transparent" />
+</p>
 
 
 
