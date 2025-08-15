@@ -1,10 +1,10 @@
-<h1 align="center">I'm Sude Özübek 🌟</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hey I'm Sude🌟</h1>
+<h3 align="center">AI-Powered Full Stack Developer</h3>
 
 
 <p align="center">
-  Building AI-Powered & Full-Stack Web Applications
-  Focused on Python, JavaScript, and AI Agent Development
+  **Building AI-Powered & Full-Stack Web Applications**
+  **Focused on Python, JavaScript, and AI Agent Development**
 </p>
  
 
