@@ -8,7 +8,6 @@
 </p>
  
 
-## Languages & Tools:
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/></a>
   <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="35" height="35"/></a>
