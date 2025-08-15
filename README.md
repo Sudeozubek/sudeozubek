@@ -23,9 +23,8 @@
 ---
 
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeozubek&layout=compact)](https://github.com/Sudeozubek/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeozubek&layout=compact" alt="Top Langs" />
 </p>
-
 
 
 
