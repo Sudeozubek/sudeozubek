@@ -23,6 +23,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-sudeozubek.vercel.app/api/top-langs/?username=sudeozubek&layout=compact&hide=jupyter%20notebook,html,css,mako&theme=transparent" />
+  <img src="https://raw.githubusercontent.com/sudeozubek/sudeozubek/master/profile-summary-card-output/transparent/2-most-commit-language.svg" />
 </p>
-
