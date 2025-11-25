@@ -23,8 +23,7 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeozubek&layout=compact&hide=jupyter%20notebook,html,css,mako&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeozubek&layout=compact&hide=jupyter%20notebook,html,css,mako&theme=transparent&cache_seconds=1800" />
 </p>
-
 
 
