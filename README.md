@@ -23,5 +23,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeozubek&layout=compact&theme=radical&hide=jupyter%20notebook,html,python">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeozubek&layout=compact&theme=radical&hide=jupyter%20notebook,html,mako">
 </p>
