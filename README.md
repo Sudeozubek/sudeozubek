@@ -7,7 +7,12 @@
 
 ---
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sudeozubek&theme=radical" width="49%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudeozubek&theme=radical&layout=compact&langs_count=10&count_private=true" />
-
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudeozubek&theme=radical&layout=compact&langs_count=12&count_private=true&hide_progress=false" 
+    width="48%" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=sudeozubek&theme=radical" 
+    width="48%" 
+  />
 </div>
