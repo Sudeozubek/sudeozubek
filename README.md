@@ -8,7 +8,7 @@
 ---
 <div align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudeozubek&theme=radical&layout=compact&langs_count=10&hide=Jupyter%20Notebook,HTML,CSS&count_private=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudeozubek&theme=radical&layout=compact&langs_count=12&count_private=true" 
     width="48%" 
   />
   <img 
