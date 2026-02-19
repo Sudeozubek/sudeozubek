@@ -8,3 +8,5 @@
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sudeozubek&theme=radical)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudeozubek&layout=compact&hide=html,css,jupyter%20notebook)
