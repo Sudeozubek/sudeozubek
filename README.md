@@ -7,4 +7,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sudeozubek&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudeozubek&theme=radical)](https://git.io/streak-stats)
