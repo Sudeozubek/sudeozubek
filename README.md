@@ -8,6 +8,6 @@
 ---
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sudeozubek&theme=radical" width="49%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudeozubek&theme=radical&layout=compact&langs_count=10" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudeozubek&theme=radical&layout=compact&langs_count=10&count_private=true" />
 
 </div>
