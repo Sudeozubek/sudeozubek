@@ -7,6 +7,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudeozubek&theme=radical)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudeozubek&theme=radical&card_width=700&langs_count=8)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sudeozubek&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudeozubek&theme=radical&hide=Jupyter%20Notebook,HTML,CSS&langs_count=8" width="48%"/>
+</div>
