@@ -6,8 +6,7 @@
 </p>
 
 ---
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sudeozubek&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudeozubek&theme=radical&hide=Jupyter%20Notebook,HTML,CSS&langs_count=8" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=sudeozubek&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudeozubek&theme=radical&layout=compact&langs_count=8&hide=HTML,CSS" width="49%"/>
 </div>
